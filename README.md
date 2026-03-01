@@ -1,4 +1,4 @@
-# 🏥 Project 1: MedFlow AI
+#  MedFlow AI
 ### Internal Clinical & Operations Agent
 
 > **Type:** Internal AI Agent · Full-stack demo
