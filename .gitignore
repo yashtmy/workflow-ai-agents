@@ -1,0 +1,6 @@
+-e .DS_Store
+*.env
+__pycache__/
+*.pyc
+outputs/
+agent.log
